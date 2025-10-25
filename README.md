@@ -2,7 +2,7 @@
 ## Documentação da prática de provisionamento e gerenciamento de EC2, EBS e RDS na AWS, incluindo insights e boas práticas de segurança.
 
 ### Sobre o Projeto
-Este repositório contém a documentação e os *insights* adquiridos durante o desafio prático da DIO (Digital Innovation One) focado em **Gerenciamento de Infraestrutura Básica na AWS**.
+Este repositório contém a documentação e os *insights* adquiridos durante o desafio prático da DIO **Gerenciando Instâncias EC2 na AWS** 
 
 O objetivo foi consolidar os conhecimentos sobre o ciclo de vida, provisionamento e configuração dos serviços **EC2 (servidor virtual)**, **EBS (armazenamento de bloco)** e sua conexão com o **RDS (banco de dados gerenciado)**.
 
