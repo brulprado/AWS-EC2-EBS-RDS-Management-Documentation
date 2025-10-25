@@ -46,7 +46,7 @@ Os seguintes passos foram executados e documentados para completar o desafio:
 O diagrama a seguir ilustra o fluxo de alto nível dos componentes principais do laboratório:
 
 ![Diagrama de Arquitetura EC2, EBS, RDS] (imagens/diagramaEC2.png)
-*(A imagem foi salva na pasta `/images` do repositório).*
+*(A imagem foi salva na pasta `/imagens` do repositório).*
 
 ## 🧠 Anotações e Insights 
 
